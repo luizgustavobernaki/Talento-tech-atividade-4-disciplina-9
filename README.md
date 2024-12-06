@@ -1,1 +1,4 @@
 # talento-tech-atividade-4-disciplina-9
+Olá, neste projeto resolvi implementar um programa de uma calculadora simples, meu objetivo era chegar a um código funcional e que atendesse as necessidades de realizar operações simples.
+Nessa calculadora, é possível realizar as 4 operações básicas (adição, subtração, multiplicação e divisão).
+O desenvolvimento do código foi dividido em dois documentos, utilizando a linguagem de programação Python para programar. O primeiro arquivo armazena as operações, já o segundo toma conta do funcionamento em si, é nele onde o usuário escolhe a operação desejada e a realiza.
